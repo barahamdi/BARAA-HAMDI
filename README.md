@@ -1,35 +1,36 @@
 # BARAA-HAMDI
-# Hi, I'm BARA 👋
+# SALUT, je suis Baraa👋
 
-**Founder of BHMEDIA Agency · Short-Form Video & Image Ads for E-Commerce**
+Fondateur de l’agence BHMEDIA · Petites annonces vidéo et image pour le commerce électronique
 
-I help e-commerce brands turn attention into sales through high-converting video creatives for TikTok, Instagram Reels, and Facebook.
+J’aide les marques de commerce électronique à transformer l’attention en ventes grâce à des créations vidéo à forte conversion pour TikTok, Instagram Reels et Facebook.
 
-## 🚀 What I Do
+## 🚀 Que faire
 
-- Create scroll-stopping short-form video ads
-- Develop compelling image ad creative
-- Design content around customer psychology and conversion
-- Continuously test and improve creative performance
+- Créer des publicités vidéo courtes arrêtant le défilement
+- Développer une publicité d’image convaincante
+- Concevoir du contenu autour de la psychologie client et de la conversion
+- Tester et améliorer continuellement les performances créatives
 
-## 🌱 Currently
+## 🌱 Actuellement
 
-- Building my BHMedia agency as a solo founder
-- Studying Business Computing at ESEN, Tunisia
-- Exploring media buying, creative strategy, ad analytics, and data science
-- Developing systems that combine creativity with measurable growth
-## Tools I use
-Make · Meta Ads Manager · Notion .  Instantly ai .   Higgsfield  . Apollo.io  
+- Créer mon agence BHMedia en tant que fondateur solo
+- Étudier l’informatique de gestion à l’ESEN, Tunisie
+- Explorer l’achat de médias, la stratégie créative, l’analyse publicitaire et la science des données
+- Développer des systèmes qui combinent la créativité avec une croissance mesurable
 
-## 🛠️ Areas of Interest
+## Outils que j’utilise
+Créer · Meta Ads Manager · Notion .  Instantanément ai .   Higgsfield  . Apollo.io
 
-`Creative Strategy` · `Short-Form Video` · `Image Ads` · `Media Buying` · `E-Commerce` · `Ad Analytics` · `Data Science`
+## 🛠️ Centres d’intérêt
+
+` Stratégie créative` · ` Vidéo abrégée ; · ` Publicités d’images ; · ` ` Achat de médias ; E-commerce ; `Publicité analytique ; · Science des données
 
 ## 📬 Connect
 
 - **Email:** [barahamdi960@gmail.com](mailto:barahamdi960@gmail.com)
-- **LinkedIn:** Coming soon
+- **LinkedIn :** À venir bientôt
 
 ---
 
-⚡ _Building ads that capture attention—and turn it into sales._
+⚡ _Créer des publicités qui captent l’attention—et la transforment en ventes. _
