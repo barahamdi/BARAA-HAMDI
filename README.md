@@ -1,7 +1,7 @@
 # baraa-hamdi
 # SALUT, je suis Baraa👋
 
-Fondateur de l’agence BHMEDIA · Petites annonces vidéo et image pour le commerce électronique
+Fondateur de l’agence BHMEDIA · Publicités vidéo courtes pour le e-commerce et image pour le commerce électronique
 
 J’aide les marques de commerce électronique à transformer l’attention en ventes grâce à des créations vidéo à forte conversion pour TikTok, Instagram Reels et Facebook.
 
